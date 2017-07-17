@@ -1,0 +1,1 @@
+q) find all the people having age between 30 to 60?

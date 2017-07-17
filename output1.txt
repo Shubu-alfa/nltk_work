@@ -1,0 +1,1 @@
+ h e l l o : N N : + m a n : N N : + : + m y : P R P : + n a m e : N N : + i s : V B Z : + J e o r g e : N N P : + : + i t s : P R P : + a l l : D T : + g o o d : J J : + i n : I N : + h e r e : R B : + : + l e t : V B : + u s : P R P : + g o : V B : + f o r : I N : + a : D T : + p a r t y : N N : + : + t h a n k : N N : + y o u : P R P : + :

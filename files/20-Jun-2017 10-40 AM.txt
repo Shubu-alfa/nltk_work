@@ -1,0 +1,1 @@
+q) find the name of the employee having age between 30 and 60?

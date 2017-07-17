@@ -1,0 +1,3 @@
+q) find age between 30 and 60?
+ Solution: (1, 'Paul', 32, 'California', 25000.0)
+ Solution: (5, 'Chetan', 55, 'Dharavi ', 87000.0)

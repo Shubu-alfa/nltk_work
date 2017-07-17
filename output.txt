@@ -1,0 +1,6 @@
+(Chunk_Noun hello/NN)
+(Chunk_Noun man/NN)
+(Chunk_Noun name/NN)
+(Chunk_Noun Jeorge/NNP)
+(Chunk_Noun party/NN)
+(Chunk_Noun thank/NN)

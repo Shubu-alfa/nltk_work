@@ -1,0 +1,2 @@
+q) find the salary between 20000 to 40000
+ Solution: (1, 'Paul', 32, 'California', 25000.0)
